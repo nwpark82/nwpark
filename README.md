@@ -1,2 +1,2 @@
 # nwpark
-깃헙 박남욱
+github for namwook park
